@@ -1,0 +1,6 @@
+venv/
+logs/
+__pycache__/
+*.log
+data/raw_data.csv
+data/clean_data.csv

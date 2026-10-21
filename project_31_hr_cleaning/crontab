@@ -1,0 +1,2 @@
+# Run the data cleaning pipeline every hour
+0 * * * * cd /app && python scripts/cleaning_pipeline.py >> /var/log/pipeline.log 2>&1

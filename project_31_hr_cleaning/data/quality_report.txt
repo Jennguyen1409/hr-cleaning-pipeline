@@ -1,0 +1,18 @@
+
+    ============================================
+    DATA QUALITY REPORT
+    ============================================
+    Original rows: 50020
+    Final rows: 49965
+    Rows removed: 55
+    
+    Columns: employee_id, age, department, job_role, gender, monthly_income, job_level, years_at_company, years_in_role, education_field, business_travel, marital_status, work_life_balance, job_satisfaction, performance_rating, overtime, num_companies_worked, training_times_last_year, attrition, attrition_cost
+    
+    Data quality checks completed:
+    - Duplicates removed
+    - Missing values filled
+    - Text columns cleaned (whitespace removed)
+    - Negative values filtered out
+    - Null values removed
+    ============================================
+    
