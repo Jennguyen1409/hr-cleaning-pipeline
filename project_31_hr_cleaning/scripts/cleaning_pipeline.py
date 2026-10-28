@@ -110,7 +110,7 @@ def save_data(df):
     
 def run_pipeline():
     print("=" * 60)
-    print("🧹 STARTING LARGE DATA CLEANING PIPELINE")
+    print("STARTING LARGE DATA CLEANING PIPELINE")
     print("=" * 60)
     
     file_path = 'data/raw_data.csv'
